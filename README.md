@@ -1,5 +1,7 @@
 # Achievements Portal
 
+Note: This repository contains a standalone clone/replica of the platform developed during my internship. To comply with institutional privacy policies, the original name, theme, and branding have been modified, and sensitive production data has been omitted.
+
 A comprehensive portal built for Zenith University students and faculty to track, manage, and verify student achievements. The platform allows students to upload certificates and administrators/faculty to validate and generate detailed reports.
 
 ## Tech Stack
